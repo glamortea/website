@@ -1,0 +1,42 @@
+ video {
+	opacity: 0.25;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	height: 100vh;
+	z-index: 1;
+}
+
+  body {background-color: black;}
+    a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}
+  a {
+  color: white;
+   	z-index: 3;
+	box-align: center;
+  	text-align: center;
+	margin: 10% 0;
+  	position: fixed;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-weight: 100%;
+}
+  h1 {
+   z-index: 3;
+  color: white;
+	box-align: center;
+  	text-align: center;
+  	position: fixed;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-weight: 100%;
+} 
+h2 {
+    width: 100%;
+    text-align:center;
+}
